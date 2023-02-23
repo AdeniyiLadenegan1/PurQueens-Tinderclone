@@ -1,0 +1,27 @@
+const characters = [
+        {
+            name: 'Ben jacks',
+            url: 'https://1.imgur.com/oPj4A8u.jpg'
+        },
+        {
+            name: 'Monica Hall',
+            url: 'https://1.imgur.com/oPj4A8u.jpg'
+        },
+        {
+            name: 'Doug Hays',
+            url: 'https://imgur.com/L5bNcw4.jpg'
+        },
+        {
+            name: 'Rick jacks',
+            url: 'https://1.imgur.com/oPj4A8u.jpg'
+        },
+        {
+            name: 'Monica Hill',
+            url: 'https://1.imgur.com/oPj4A8u.jpg'
+        },
+        {
+            name: 'Jared Dunn',
+            url: 'https://1.imgur.com/oPj4A8u.jpg'
+        },
+    
+    ]
